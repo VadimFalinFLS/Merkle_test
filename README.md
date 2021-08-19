@@ -1,4 +1,4 @@
-# tsvue-todo-app
+# Merkle test app
 
 ## Project setup
 ```
